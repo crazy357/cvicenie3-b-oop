@@ -1,6 +1,11 @@
 package cvicenie3;
 
+import cvicenie3.student.Student;
 import cvicenie3.utility.ZKlavesnice;
+import cvicenie3.zoradenie.PodlaID;
+import cvicenie3.zoradenie.PodlaMena;
+import cvicenie3.zoradenie.PodlaPriezviska;
+import cvicenie3.zoradenie.PodlaVeku;
 
 import java.util.Arrays;
 

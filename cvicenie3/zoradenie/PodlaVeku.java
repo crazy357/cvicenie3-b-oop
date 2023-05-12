@@ -1,4 +1,6 @@
-package cvicenie3;
+package cvicenie3.zoradenie;
+
+import cvicenie3.student.Student;
 
 import java.util.Comparator;
 

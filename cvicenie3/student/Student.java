@@ -1,4 +1,4 @@
-package cvicenie3;
+package cvicenie3.student;
 
 public class Student {
     private int ID;
